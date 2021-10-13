@@ -1,0 +1,84 @@
+.background{
+background: rgb(77, 83, 177);
+
+}
+
+.topleft{
+margin-top: 10px;
+position: absolute;
+top: 8px;
+left: 16px;
+
+position: relative;
+
+
+}
+.deloitte{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(0, 165, 63);
+    background: rgb(111, 49, 49);
+
+}
+.topright{
+    position: absolute;
+    top: 0px;
+    left: 16px;
+    top: 8px;
+    right: 1000px;
+    padding-left: 350px;
+    padding-top: 10px;
+   
+
+}
+.topnav{
+    color:rgb(72, 18, 37);
+    background: yellow;
+    float: left;
+    font-size: 50px;
+    position: fixed;
+    text-align: center;
+   padding-bottom: 10px;
+}
+.cap{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(28, 5, 31);
+}
+.details{
+color: rgb(13, 255, 0);
+background-color: rgb(59, 80, 240);
+text-decoration: snow;
+
+}
+.rightmiddle{
+padding-left: 20px;
+float: left;
+margin-right: 10px;
+
+}
+.last{
+    padding-left: 200px;
+    
+}
+.footer_one{
+    background: rgb(11, 11, 19);
+    color: red;
+    text-align: center;
+    padding: 3px;
+      overflow: hidden;
+      float: left;
+      width: 100%;
+}
+.about{
+text-align: center;
+
+}
+.about2{
+    text-align: center; 
+}
+.end{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(28, 5, 31);
+}
